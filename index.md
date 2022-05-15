@@ -4,5 +4,5 @@ Ok some of you know what an graphical interface is some of you dont know what it
 If you want it a little bit harder you can use The maual way you can also use the automated way that i scripted.
 # The Manual way
 lets start by typing :
-`sudo apt-get upgrade´
+´sudo apt-get upgrade´
 then enter
