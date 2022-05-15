@@ -1,6 +1,6 @@
 # XX-Crafter-XX
 This are All my Projects
-# Project
+# Project UBGI
 
 # Graphical Interface
 Ok if you have Ubuntu Server some of you hate the Black and Blank terminal to spice it up you can use my guide to install an Graphical Interface
