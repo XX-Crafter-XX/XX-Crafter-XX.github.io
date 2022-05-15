@@ -14,3 +14,6 @@ adminengine.shutdown
 craftengine.shutdown
 pause --on shutdown
 start --on startup.adminengine.craftengie
+hide.process.docker.adminengine.craftengine.git
+proxy=0
+netuse.shutdown --restart
