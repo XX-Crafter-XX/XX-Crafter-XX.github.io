@@ -1,1 +1,16 @@
-
+GIT Craftengine wget GIT://craftengine.net
+nogui host craftengine 3G
+Wifi.netuse
+Docker start craftengine.git
+UseGb3.localnetwork
+localnetwork=localhost:8080
+process.kill-docker.dockered
+process.start-docker.dockered
+restart on shutdown
+shutdown=shutdown now && apt process.kill
+Adminengine.start.bash localnet:8080
+pause --on restart
+adminengine.shutdown
+craftengine.shutdown
+pause --on shutdown
+start --on startup.adminengine.craftengie
